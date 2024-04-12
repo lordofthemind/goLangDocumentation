@@ -1,4 +1,3 @@
-```markdown
 ## Installation (Linux)
 
 1. Open a terminal.
