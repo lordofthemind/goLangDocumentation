@@ -1,0 +1,26 @@
+.
+├── 01_gettingStarted.md
+├── 02_installation.md
+├── 03_createModule.md
+├── 04_howToWrite.md
+├── 05_valueVariableConstant.md
+├── 06_statementControl.md
+├── 07_dataStructure.md
+├── 08_rangeFunction.md
+├── 09_variadicClosureRecursion.md
+├── 10_pointer.md
+├── 11_deferPanicRecover.md
+├── 12_stringAndRunes.md
+├── 13_struct.md
+├── 14_methods.md
+├── 15_interface.md
+├── 16_structEmbadding.md
+├── 17_generic.md
+├── 18_errors.md
+├── 19_customErrors.md
+├── 20_goRoutines.md
+├── 21_channels.md
+├── tree.txt
+└── web.md
+
+0 directories, 23 files
